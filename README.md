@@ -69,7 +69,7 @@ Results & Insights
 
 How to View the Dashboard
 --------------------------
-- Tableau Public: https://public.tableau.com/app/profile/tylor.justice.page
+- Tableau Public: [https://public.tableau.com/app/profile/tylor.justice.page](https://public.tableau.com/app/profile/tylor.justice.page/viz/NYCRestaurantInspectionDashboard/Dashboard1)
 - GitHub Repository: https://github.com/TylorPage
 
 Future Improvements
