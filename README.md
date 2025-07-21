@@ -24,9 +24,22 @@ Tools Used
 Key Questions
 -------------
 - Which boroughs have the highest number of violations?
+  Manhattan with over 100,000 violations.
+  <img width="889" height="476" alt="image" src="https://github.com/user-attachments/assets/2a03e4fd-e1c9-44f9-8bfa-1e032cd8d7cd" />
+
 - What are the most common types of health code violations?
+- 1. Non-food contact surface or equipmade made of unacceptable material, not kept clean, nor properly sealed raised, spaced or mavable to allow accessibility for cleaning on all sides, above and underneath the unit.
+  2. Establishment is not free of harborage or conditions conducive to rodents, insects, or other pests.
+  3. Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occured.
+     <img width="1820" height="386" alt="image" src="https://github.com/user-attachments/assets/68f3b1f3-3046-45f6-8d32-7fa0ebb65a58" />
+
 - Do certain cuisine types tend to receive lower inspection scores?
+  Yes, Bangladeshi, African, and Filipino food scores highest (worse).
+  <img width="1143" height="602" alt="image" src="https://github.com/user-attachments/assets/9b09ac86-814a-4074-8474-5ce5405ecb1b" />
+
 - How do inspection scores change over time?
+  Yes, inspection scores have generally increased over time.
+  <img width="927" height="474" alt="image" src="https://github.com/user-attachments/assets/82d91591-469a-4543-b78d-f86d7338bc3b" />
 
 Process
 -------
