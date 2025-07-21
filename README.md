@@ -62,10 +62,13 @@ Process
 
 Results & Insights
 ------------------
-- Boroughs with the highest violation counts included [Insert Result]
-- Common violations involved [Insert Violation Types]
-- Cuisine types such as [Cuisine] had lower average scores
-- Scores and grades showed [Improvement/Decline] over the past 5 years
+- Boroughs with the highest violation counts included Manhattan
+- Common violations involved
+- 1. "Non-food contact surface or equipmade made of unacceptable material, not kept clean, nor properly sealed raised, spaced or mavable to allow accessibility for cleaning on all sides, above and underneath the unit."
+  2. "Establishment is not free of harborage or conditions conducive to rodents, insects, or other pests."
+  3. "Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occured."
+- Cuisine types such as Bangladeshi and Cuban had higher average scores
+- Scores and grades showed declined over the past 5 years
 
 How to View the Dashboard
 --------------------------
