@@ -81,6 +81,6 @@ Future Improvements
 Author
 ------
 Tylor Justice-Page  
-Email: thevaruspro@gmail.com  
+Email: tjusticepage@gmail.com
 LinkedIn: https://www.linkedin.com/in/tj-page-51b9b3199  
 GitHub: https://github.com/TylorPage
